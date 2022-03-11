@@ -35,7 +35,7 @@ for (i = 0; i < arrayFirst.length; i++) {
         // aggiungo questi numeri al secondo array
         arraySecond.push(numeroCasuale);
     }
-    
+
    
 }
-console.log(arraySecond);
+console.log(arrayFirst, arraySecond);
